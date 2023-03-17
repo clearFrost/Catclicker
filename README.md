@@ -40,7 +40,7 @@ There were errors that showed up when I made the onListener for the button. I de
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Jason Kang]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
